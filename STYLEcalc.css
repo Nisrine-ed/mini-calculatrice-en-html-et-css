@@ -1,0 +1,121 @@
+h1{
+    color: black;
+    text-align: center;
+    text-decoration: underline;
+    font-family: fantasy;
+    text-decoration-color: #ff0000;
+    text-shadow: 3px 1px gray;
+}
+
+table{
+    background-color: #000000;
+    color: white;
+    text-align: center;   
+}
+
+td{
+    border-style: double;
+}
+
+p{
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: blue;
+}
+input[type="text"] {
+    width: 96%;
+    padding-left: 0.5%;
+}
+
+input[type="button"] {
+    width: 100%;
+    padding: 5px; 
+    background-color: white;
+}
+
+input[ value="=" ] {
+    width: 100%;
+    padding: 48%;
+    padding-top: 70%;
+    padding-bottom: 53%;
+    padding-left: 40%;
+    background-color: blue;
+    color: cornsilk;
+}
+
+/* id prend le nom une seule fois */
+#violet{
+    background-color: blueviolet;
+    color: cornsilk;
+}
+#gris{
+    background-color: gray;
+    color: cornsilk;
+}
+
+input[ value="M+" ] {
+    background-color: blueviolet;
+    color: cornsilk;
+}
+input[ value="M-" ] {
+    background-color: blueviolet;
+    color: cornsilk;
+}
+input[ value="MR" ] {
+    background-color: blueviolet;
+    color: cornsilk;
+}
+input[ value="C" ] {
+    background-color: #ff0000;
+    color: cornsilk;
+}
+input[ value="DEL" ] {
+    background-color: #ff0000;
+    color: cornsilk;
+}
+input[ value="OFF" ] {
+    background-color: black;
+    color: cornsilk;
+}
+input[ value="ON" ] {
+    background-color: black;
+    color: cornsilk;
+}
+input[ value="(" ] {
+    background-color: gray;
+    color: cornsilk;
+}
+input[ value=")" ] {
+    background-color: gray;
+    color: cornsilk;
+}
+input[ value="/" ] {
+    background-color: gray;
+    color: cornsilk;
+}
+input[ value="*" ] {
+    background-color: gray;
+    color: cornsilk;
+}
+input[ value="-" ] {
+    background-color: gray;
+    color: cornsilk;
+    
+}
+input[ value="+" ] {
+    background-color: gray;
+    color: cornsilk;
+}
+input[ value="." ] {
+    background-color: gray;
+    color: cornsilk;
+    font-family: fantasy;
+}
+
+
+
+
+
+
+
+
